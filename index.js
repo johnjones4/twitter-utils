@@ -27,6 +27,7 @@ async.waterfall([
     }
   }
 ],function(err) {
+  util.close();
   if (err) {
     console.error(err);
   }
