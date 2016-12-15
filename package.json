@@ -1,0 +1,26 @@
+{
+  "name": "twitter-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjones4/twitter-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjones4/twitter-utils/issues"
+  },
+  "homepage": "https://github.com/johnjones4/twitter-utils#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "csv-stringify": "^1.0.4",
+    "lodash": "^4.17.2",
+    "minimist": "^1.2.0",
+    "request": "^2.79.0"
+  }
+}
