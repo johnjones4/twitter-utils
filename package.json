@@ -18,6 +18,7 @@
   "homepage": "https://github.com/johnjones4/twitter-utils#readme",
   "dependencies": {
     "async": "^2.1.4",
+    "csv-parse": "^1.1.7",
     "csv-stringify": "^1.0.4",
     "lodash": "^4.17.2",
     "minimist": "^1.2.0",
